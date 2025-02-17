@@ -3,7 +3,7 @@ import requests
 import pandas as pd
 
 # API URL for the Node.js backend
-API_URL = "http://localhost:5000/api/calorieData"
+API_URL = "https://calorie-tracker-1-8kxd.onrender.com/api/calorieData"
 
 # Title of the web app
 st.title("Calorie Tracker")
